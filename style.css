@@ -1,0 +1,70 @@
+h1
+{
+ font-family: "Montserrat";
+ font-size:2rem;
+}
+#content
+{
+ padding:8%;
+}
+#home
+{
+ background-color:burlywood;
+}
+#btnwidth
+{
+ width:150px;
+ padding: 3%
+}
+.container-fluid
+{
+ padding:;
+}
+.container-fluid{
+  padding:3%;
+}
+#services
+{
+ background-color:burlywood;
+ padding:8%;
+ text-align:center;
+}
+h2
+{
+ font-family:"Montserrat";
+ font-size:3.5rem;
+}
+#footer
+{
+ text-align:center;
+}
+.footericon i
+{
+ margin:1%;
+}
+#contact
+{
+ padding:4%;
+ text-align:center;
+ background-color:burlywood;
+}
+.icons
+{
+ font-size:4rem;
+}
+.footericon i
+{
+ font-size:2rem;
+}
+.card-header{
+  background-color:lightskyblue;
+}
+.card-body{
+  background-color: 
+}
+#footer{
+  background-color: burlywood
+}
+.navbar{
+  background-color:gainsboro;
+}
